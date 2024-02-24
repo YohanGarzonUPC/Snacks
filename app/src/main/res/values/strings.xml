@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Snacks</string>
+    <string-array name="tipos">
+        <item>Paquetes de papas</item>
+        <item>Gaseosas</item>
+        <item>Chocolatinas</item>
+        <item>Ponques</item>
+    </string-array>
+</resources>
